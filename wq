@@ -1,0 +1,23 @@
+[33mcommit 06e3a1cd7af5ba03342367ef5c5585d997143e49[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Rafael Henrique Noronha Garcia <rgarcia@lopes.com.br>
+Date:   Sun May 29 21:30:23 2022 -0300
+
+    Novo personagem e planeta.
+
+[33mcommit 87d9db4ee52407d98cfa42e88496727419b49677[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Rafael Henrique Noronha Garcia <rgarcia@lopes.com.br>
+Date:   Sun May 1 23:38:56 2022 -0300
+
+    Editado  o arquvio de  personagens e criado o de planetas.
+
+[33mcommit 9bf31b9121e3e09c62519e1f50814f4c62662c61[m
+Author: Rafael Henrique Noronha Garcia <rgarcia@lopes.com.br>
+Date:   Sun May 1 23:30:22 2022 -0300
+
+    Adicionado o arquivo Readme.md
+
+[33mcommit a119f819f29953a1eac0d2abb69aafb370461131[m
+Author: Rafael Henrique Noronha Garcia <rgarcia@lopes.com.br>
+Date:   Sun May 1 23:15:08 2022 -0300
+
+    Exclusão de um arquivo errado "PrimeiroArquivo"
